@@ -1,0 +1,9 @@
+*{
+    margin: 0;  /**margem externa / fora dos elementos **/
+    padding: 0; /**margem interna / dentro dos elementos **/
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none ; /**tipos de listas / ul e ol **/
+}
